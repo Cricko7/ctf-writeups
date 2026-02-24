@@ -27,15 +27,18 @@
 - - Количество одиночных: 1
 
 Категорий заданий (по приоритету):
-1) Web
-2) Network
-3) Stegano
-4) Crypto
-5) OSINT
-6) Reverse
-7) Pwn
-8) Forensics
-9) Misc
+<p align="center">
+  [![Web #1](https://img.shields.io/badge/web-🔥%231-brightgreen?style=flat-square&logo=firefox&logoColor=white)](./web/)
+  [![Network #2](https://img.shields.io/badge/network-⚡%232-blue?style=flat-square&logo=network&logoColor=white)](./network/)
+  [![Stegano #3](https://img.shields.io/badge/stego-🖼️%233-teal?style=flat-square&logo=image&logoColor=white)](./stego/)
+  [![Crypto #4](https://img.shields.io/badge/crypto-🔐%234-blue?style=flat-square&logo=sagemath&logoColor=white)](./crypto/)
+  [![OSINT #5](https://img.shields.io/badge/osint-🔍%235-orange?style=flat-square&logo=detective&logoColor=white)](./osint/)
+  [![Reverse #6](https://img.shields.io/badge/re-🔄%236-yellow?style=flat-square&logo=rust&logoColor=black)](./reverse/)
+  [![Pwn #7](https://img.shields.io/badge/pwn-💥%237-red?style=flat-square&logo=python&logoColor=white)](./pwn/)
+  [![Forensics #8](https://img.shields.io/badge/forensics-🔎%238-purple?style=flat-square&logo=wireshark&logoColor=white)](./forensics/)
+  [![Misc #9](https://img.shields.io/badge/misc-🎲%239-gray?style=flat-square&logo=dice&logoColor=white)](./misc/)
+</p>
+
 
 
 
