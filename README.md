@@ -2,7 +2,7 @@
 
 > Изменено 24.02.2026
 
-# Мой опыт в CTF-соревнованиях / ctf-writeups
+## Мой опыт в CTF-соревнованиях / ctf-writeups
 
 ### О себе
 
@@ -21,12 +21,12 @@
 - Город:
 > Ростов-на-Дону
 
-### Опыт:
+## Опыт:
 - Количество соревнований: 2
 - - Количество командных: 1
 - - Количество одиночных: 1
 
-Категорий заданий (по приоритету):
+## Категорий заданий (по приоритету):
 
   [![Web #1](https://img.shields.io/badge/web-🔥%231-brightgreen?style=flat-square&logo=firefox&logoColor=white)](./web/)
   [![Network #2](https://img.shields.io/badge/network-⚡%232-blue?style=flat-square&logo=network&logoColor=white)](./network/)
@@ -39,8 +39,7 @@
   [![Misc #9](https://img.shields.io/badge/misc-🎲%239-gray?style=flat-square&logo=dice&logoColor=white)](./misc/)
 
 
-
-
+______________
 
 ## Древо:
 
@@ -122,7 +121,7 @@ cricko7/ctf-writeups/
 
 ```
 
-#### Таблица:
+### Таблица:
 
 | Категория | Основные инструменты           | Альтернативы                      | Docker образы                        |
 | --------- | ------------------------------ | --------------------------------- | ------------------------------------ |
@@ -135,3 +134,7 @@ cricko7/ctf-writeups/
 | Misc      | CyberChef, hashcat, nc         | base64decode.org, man-db, xxd     | docker run -it cyberchef/ctf-misc    |
 | Network   | Wireshark, tcpdump, nmap       | netcat, wireshark-tshark, masscan | docker run -it nmap/ctf-network      |
 | Android   | Frida, jadx, apktool           | objection, mobSF, drozer          | docker run -it frida/ctf-android     |
+
+
+#### Примечание:
+> Если хотите со мной участвовать в CTF, то обратитесь по моим контактам. Буду рад с вами разгадать любые флаги 😊.
