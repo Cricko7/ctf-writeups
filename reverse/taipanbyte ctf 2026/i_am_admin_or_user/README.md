@@ -13,16 +13,17 @@
 ## Анализ
 
 ### 1. Определение типа файла
+```
 
 ```bash
 file webserver.tb
-```
+
 
 **Вывод:**
 ```
 ELF 64-bit LSB pie executable, x86-64, dynamically linked, not stripped
 ```
-
+```
 Это 64-битный ELF-файл для Linux, не удалены символы (упрощает реверс).
 
 ### 2. Поиск строк
